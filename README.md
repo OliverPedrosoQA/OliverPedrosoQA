@@ -1,4 +1,4 @@
-## Hi there, I'm Oliver Pedroso! 🤙🏻
+## Heeeey, Welcome! It's nice to see you around here! 😁
 <div>
   <a href="https://www.linkedin.com/in/oliver-pedroso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href = "mailto:oliver1508@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
