@@ -15,8 +15,8 @@
 <div style="display: inline_block"><br>
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/zb2J1Cn/eu-cartoon.jpg" alt="Oliver-Cartoon" border="0" height="140"></a>
   <ul class="texto">
-    <li>🧑‍💻 I’m currently working at Matera Systems as a Software Test Analyst. I'm looking forward at becoming a QA Engineer and improving my test automation abilities.</li>
-    <li>🤖 I’m currently learning Web and API Test Automation and coding projects in Java.</p></li>
+    <li>🧑 I’m currently working at <a href="https://www.leangroup.com/solutions/leantech">Lean Tech</a> as a Test Automation Analyst and I am looking forward in becoming a QA Lead.</li>
+    <li>🤖 I’m currently studying some web test automation tools such as Cypress and Selenium and API Test Automation, using languages like Java and Javascript.</li>
     <li>🌐 I’m really into Software Quality Assurance and believe delivering high quality products can help companies contribute for a better world in a variety of ways.</li>
   </ul>
 </div>
