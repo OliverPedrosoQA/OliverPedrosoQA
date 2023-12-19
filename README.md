@@ -14,9 +14,9 @@
 
 <div style="display: inline_block"><br>
    <ul class="texto">
-    <li>🧑 I’m currently working at <a href="https://www.leangroup.com/solutions/leantech">Lean Tech</a> as a QA Engineer and I am looking forward in becoming a QA Leader.</li>
+    <li>🧑 I’m currently working at <a href="https://www.leangroup.com/solutions/leantech">Lean Tech</a> as a QA Engineer and I am looking forward in becoming a Software Developer in Test.</li>
     <li>🤖 I’m currently studying some web test automation tools such as Cypress and Selenium and API Test Automation, using languages like Java and Javascript.</li>
-    <li>🌐 I’m really into Software Quality Assurance and believe delivering high quality products can help companies contribute for a better world in a variety of ways.</li>
+    <li>🌐 "Unleashing Quality in Every Line of Code: Where Expertise and Passion Converge.".</li>
   </ul>
 </div>
 <br>
