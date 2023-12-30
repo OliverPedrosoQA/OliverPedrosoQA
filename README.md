@@ -16,7 +16,7 @@
    <ul class="texto">
     <li>🧑 I’m currently working at <a href="https://www.leangroup.com/solutions/leantech">Lean Tech</a> as a QA Engineer and I am looking forward in becoming a Software Developer in Test.</li>
     <li>🤖 I’m currently studying some web test automation tools such as Cypress and Selenium and API Test Automation, using languages like Java and Javascript.</li>
-    <li>🌐 "Unleashing Quality in Every Line of Code: Where Expertise and Passion Converge.".</li>
+    <li>🌐 "I am focused in enhancing software quality and QA processes with good communication and team collaboration. Dedicated to the pursuit of excellence, I aspire to produce applications of the highest caliber, aiming not just to satisfy the final customer, but to astonish them with an unparalleled level of quality".</li>
   </ul>
 </div>
 <br>
